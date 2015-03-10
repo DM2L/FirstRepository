@@ -1,6 +1,8 @@
 * {
+	max-width: 900px;
+	justify-content: center;
 	border: 1px solid red !important;
-	margin: 5px;
+	margin: 2px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-ms-box-sizing:border-box;
